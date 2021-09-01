@@ -6,14 +6,11 @@ This repository contains an [MLIR-based](https://mlir.llvm.org/) toolchain for X
 
 [Getting Started](Building.md)
 
-[Running on a board](Platform.md)
+[AIE Dialect](AIEDialect.md)
+
+[AIE Passes](AIEPasses.md)
 
 [Github sources](https://github.com/Xilinx/mlir-aie)
-
-Generated code documentation
-- [AIE Dialect](AIEDialect.md)
-- [AIE Passes](AIEPasses.md)
-
 -----
 
 <p align="center">Copyright&copy; 2019-2021 Xilinx</p>
